@@ -15,6 +15,8 @@ The dashboard helps HR teams and management quickly understand the
 current workforce structure, identify trends, compare employee groups,
 and detect potential HR issues that may require further investigation.
 
+![Dashboard](./dashboard_screenshot.png)
+
 ------------------------------------------------------------------------
 
 ## 🎯 Project Objectives
